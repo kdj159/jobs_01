@@ -4,12 +4,12 @@ function Input() {
   return (
       <table className="Input">
           <tr>
-              <th>a</th>
-              <th>b</th>
+              <th>a-1</th>
+              <th>b-1</th>
           </tr>
           <tr>
-              <th>c1</th>
-              <th>c2</th>
+              <th>a-2</th>
+              <th>b-2</th>
           </tr>
       </table>
     // <div className="App">
